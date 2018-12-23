@@ -58,6 +58,8 @@ import java.util.List;
  * View/Tool window/ version control
  * Commit changes - VCS, Git, Commit file
  * Diff window - in Version control, local changes, select the file, command D
+ * Share the project on Git
+ *
  */
 public class Main {
 
