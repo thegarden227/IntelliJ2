@@ -59,6 +59,7 @@ import java.util.List;
  * Commit changes - VCS, Git, Commit file
  * Diff window - in Version control, local changes, select the file, command D
  * Share the project on Git
+ * New Branch
  *
  */
 public class Main {
