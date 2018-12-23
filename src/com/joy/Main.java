@@ -57,6 +57,7 @@ import java.util.List;
  * VCS/Enable ...
  * View/Tool window/ version control
  * Commit changes - VCS, Git, Commit file
+ * Diff window - in Version control, local changes, select the file, command D
  */
 public class Main {
 
