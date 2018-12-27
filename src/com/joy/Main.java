@@ -84,6 +84,9 @@ public class Main {
         String colorGson = gson.toJson(colors);
         System.out.println(colorGson);
 
+        String item = new String("Shirt");
+
+
 
     }
 

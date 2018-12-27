@@ -1,3 +1,13 @@
 
+Lsquid:S1481H")Remove this unused "test" local variable.(‰±°åşÿÿÿÿ8±Ş„«ı,
+Lsquid:S1481W")Remove this unused "item" local variable.(ó×¬üÿÿÿÿ8¸³­Ñı,
 V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÌŒÃ8ßåÌ¨ı,
+squid:S106J"9Replace this use of System.out or System.err by a logger.(œ•é‹8—½èªı,
+Csquid:S2129W" Remove this "String" constructor(ó×¬üÿÿÿÿ8¸³­Ñı,
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(“ àø8Ó†ÔÌı,
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ëÒ…úÿÿÿÿ8ÇùÊÌı,
+Psquid:S1135"2Complete the task associated to this TODO comment.(ö£¢û8ÙÌ¶´ı,
+[squid:S1854H"8Remove this useless assignment to local variable "test".(‰±°åşÿÿÿÿ8±Ş„«ı,
+[squid:S1854W"8Remove this useless assignment to local variable "item".(ó×¬üÿÿÿÿ8¸³­Ñı,
